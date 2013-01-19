@@ -2,7 +2,7 @@ A skeleton I prepared for myself to get familiar with
 
  scala-java-eclipse-maven integration 
  
-_with_ inifinitest ala sbt. 
+_with_ inifinitest ala sbt. *ATTENTION*: maven 3.0.4+ is required. Also, make sure you are not using embedded maven to run cctest.
 
 It drinks from 
 

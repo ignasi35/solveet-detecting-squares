@@ -10,6 +10,7 @@
 		<maven.compiler.target>1.6</maven.compiler.target>
 		<encoding>UTF-8</encoding>
 		<scala.version>2.9.1</scala.version>
+		<maven.home>./target</maven.home>
 	</properties>
 
 	<dependencies>

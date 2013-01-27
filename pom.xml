@@ -2,9 +2,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.marimon</groupId>
-	<artifactId>lala-scala-java-circular-maven-eclipse-infinitest</artifactId>
+	<artifactId>solveet-detecting-squares </artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<description>A skeleton I prepared for myself to get familiar with scala-java-eclipse-maven integration _with_ inifinitest ala sbt. It drinks from https://github.com/sonatype/m2eclipse-scala/blob/master/samples/prj-scala-cycle-java/pom.xml and http://stackoverflow.com/a/7423909 and I tested it on: http://downloads.typesafe.com.s3.amazonaws.com/scalaide-pack/2.1.0.m2-29-20121023/scala-SDK-2.1-M2-2.9-linux.gtk.x86.tar.gz (actually Build id: 2.1-M2-20121023-1338-Typesafe)</description>
 	<properties>
 		<maven.compiler.source>1.6</maven.compiler.source>
 		<maven.compiler.target>1.6</maven.compiler.target>
